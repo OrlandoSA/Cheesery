@@ -9,14 +9,14 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="100dp"
         android:id="@+id/img_productos"
         android:layout_marginTop="15dp"
-        android:src="@drawable/hotdrinks"></ImageView>
+        android:src="@drawable/combos"></ImageView>
 
     <View
         android:layout_width="match_parent"
-        android:layout_marginTop="-20dp"
+        android:layout_marginTop="-10dp"
         android:layout_height="3dp"
         android:background="@color/colorPrimary"
         android:layout_marginLeft="50dp"
@@ -29,5 +29,5 @@
         android:layout_marginTop="10dp"
         android:numColumns="1"
         android:layout_width="match_parent"
-        android:layout_height="300dp" />
+        android:layout_height="330dp" />
 </LinearLayout>
